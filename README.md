@@ -1,4 +1,5 @@
 E-Learning System
+
 Overview
 A PHP-based platform for seamless online learning, enabling user authentication, course management, content delivery, and assessment tools.
 
@@ -36,4 +37,4 @@ Teacher: Upload materials and review submissions.
 Student: Enroll, access content, and take quizzes.
 Contact
 Name: Sanjana Deshmukh
-Email: [your-email@example.com]
+Email: sanjanadeshmukh30@gmail.com
