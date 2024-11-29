@@ -9,9 +9,11 @@ Course creation and enrollment.
 Multimedia content upload.
 Online quizzes and grading.
 Admin panel for centralized management.
+
 Technologies
 Frontend: HTML5, CSS3, JavaScript, Bootstrap
 Backend: PHP, MySQL
+
 Installation
 Clone the repository:
 bash
