@@ -33,6 +33,7 @@ Copy code
 ├── includes/      # Header, footer, etc.  
 ├── pages/         # Main pages  
 └── index.php      # Entry point  
+
 Usage
 Admin: Manage users, courses, and settings.
 Teacher: Upload materials and review submissions.
