@@ -35,6 +35,7 @@ Copy code
 └── index.php      # Entry point  
 
 Usage
+
 Admin: Manage users, courses, and settings.
 Teacher: Upload materials and review submissions.
 Student: Enroll, access content, and take quizzes.
