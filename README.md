@@ -15,6 +15,7 @@ Frontend: HTML5, CSS3, JavaScript, Bootstrap
 Backend: PHP, MySQL
 
 Installation
+
 Clone the repository:
 bash
 Copy code
