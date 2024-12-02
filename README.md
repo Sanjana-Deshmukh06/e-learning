@@ -57,7 +57,10 @@ Student:
 
 Enroll in courses, access study content, and complete quizzes.
 📬 Contact
+
 📌 Name: Sanjana Deshmukh
+
 🌐 Portfolio: Visit my website
+
 📧 Email: sanjanadeshmukh30@gmail.com
 
