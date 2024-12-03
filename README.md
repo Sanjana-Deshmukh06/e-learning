@@ -15,6 +15,7 @@ The E-Learning System enables students and teachers to connect seamlessly in a v
 🛠 Technologies Used
 Frontend: HTML5, CSS3, JavaScript, Bootstrap
 Backend: PHP, MySQL
+
 ⚡ Installation
 Clone the repository:
 
