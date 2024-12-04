@@ -25,6 +25,7 @@ Copy code
 git clone <repository_url>  
 Import the database:
 
+
 Locate the database.sql file and import it into MySQL.
 Configure the project:
 
