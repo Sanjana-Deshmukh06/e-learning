@@ -57,7 +57,7 @@ Teacher:
 Upload learning materials and review student submissions.
 
 Student:
-Enroll in courses, access study content, and complete quizzes.
+Enroll in courses, access study content, and complete quizzes..
 
 📬 Contact
 
