@@ -31,7 +31,7 @@ Configure the project:
 Update your database credentials in config/config.php.
 Set up the environment:
 
-Place the project folder in the htdocs directory (if using XAMPP)...
+Place the project folder in the htdocs directory (if using XAMPP)..
 Launch the application:
 
 Open your browser and visit:
