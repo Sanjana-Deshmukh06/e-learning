@@ -8,7 +8,7 @@ The E-Learning System enables students and teachers to connect seamlessly in a v
 ✨ Features
 
 🔐 Secure Authentication: Login for both students and teachers.
-📚 Course Management: Create, enroll, and manage courses...
+📚 Course Management: Create, enroll, and manage courses..
 🎥 Multimedia Uploads: Add videos, images, and documents for lessons.
 📝 Assessments: Conduct quizzes with automated grading.
 ⚙️ Admin Panel: Centralized control for managing users, courses, and platform settings.
