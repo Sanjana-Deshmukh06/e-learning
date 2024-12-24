@@ -25,7 +25,7 @@ git clone <repository_url>
 Import the database:
 
 
-Locate the database.sql file and import it into MySQL.
+Locate the database.sql file and import it into MySQL..
 Configure the project:
 
 Update your database credentials in config/config.php.
