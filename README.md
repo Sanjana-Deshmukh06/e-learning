@@ -1,6 +1,6 @@
 🌟 E-Learning System
 
-A feature-rich PHP-based platform designed to revolutionize online learning with user-friendly authentication, course management, multimedia content delivery, and built-in assessment tools.
+A feature-rich PHP-based platform designed to revolutionize online learning with user-friendly authentication, course management, multimedia content delivery, and built-in assessment tools..
 
 🚀 Overview
 The E-Learning System enables students and teachers to connect seamlessly in a virtual environment for effective learning and collaboration.
